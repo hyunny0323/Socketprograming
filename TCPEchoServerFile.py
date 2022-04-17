@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 쇼뱅? 파이썬 스크립트 처리
 
 import socket
 
